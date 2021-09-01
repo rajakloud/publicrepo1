@@ -1,0 +1,15 @@
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\bin\Debug\net5.0\Shopping.Oder.DAL.deps.json
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\bin\Debug\net5.0\Shopping.Oder.DAL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\bin\Debug\net5.0\ref\Shopping.Oder.DAL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\bin\Debug\net5.0\Shopping.Oder.DAL.pdb
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.csproj.AssemblyReference.cache
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.AssemblyInfoInputs.cache
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.AssemblyInfo.cs
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\ref\Shopping.Oder.DAL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.pdb
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\bin\Debug\net5.0\Shopping.Order.BLL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\bin\Debug\net5.0\Shopping.Order.BLL.pdb
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Oder.DAL\obj\Debug\net5.0\Shopping.Oder.DAL.csproj.CopyComplete

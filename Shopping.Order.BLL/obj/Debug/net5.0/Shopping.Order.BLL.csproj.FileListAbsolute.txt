@@ -1,0 +1,11 @@
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\bin\Debug\net5.0\Shopping.Order.BLL.deps.json
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\bin\Debug\net5.0\Shopping.Order.BLL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\bin\Debug\net5.0\ref\Shopping.Order.BLL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\bin\Debug\net5.0\Shopping.Order.BLL.pdb
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\Shopping.Order.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\Shopping.Order.BLL.AssemblyInfoInputs.cache
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\Shopping.Order.BLL.AssemblyInfo.cs
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\Shopping.Order.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\Shopping.Order.BLL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\ref\Shopping.Order.BLL.dll
+C:\Users\Sevvel\source\repos\Shopping.Order\Shopping.Order.BLL\obj\Debug\net5.0\Shopping.Order.BLL.pdb
